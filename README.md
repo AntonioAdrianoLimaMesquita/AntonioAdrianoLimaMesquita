@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou ou Antonio Mesquita</h1>
+<h1 align="center">Olá 👋, eu sou o Antonio Mesquita</h1>
 <h3 align="center">Apaixonado em automatizar tarefas chatas, repetitivas e massantes</h3>
 
 - 🔭 Atualmente estou em busca de projetos como Freelancer **Lives freelancer**
